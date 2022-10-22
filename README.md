@@ -1,4 +1,4 @@
-👋 Hi, I’m @egzonpllana
+👋 Hi, I’m Egzon (spell: Exon) and Im from Kosovo (EU).
 
 👀 I’m interested in iOS Development.
 
