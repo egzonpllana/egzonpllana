@@ -1,4 +1,4 @@
-👋 Hi, I’m Egzon (spell: Exon) and Im from Kosovo (EU).
+👋 Hi, I’m Egzon (spell: Exon) and Im from Kosovo (Europe).
 
 👀 I’m interested in iOS Development.
 
