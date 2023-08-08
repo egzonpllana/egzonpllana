@@ -15,4 +15,4 @@
 - [MyWayPizza](https://github.com/egzonpllana/MyWayPizza) - Building an iOS app for ordering Pizza with mocked APIs from the Apiary specification using Swift.
 
 
-Thats all, a short introduction about me 🙋‍♂️
+That's all, a short introduction about me.
