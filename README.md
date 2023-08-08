@@ -1,8 +1,8 @@
 👋 Hi, I’m Egzon (spell: Exon) and Im from Kosovo, Europe.
 
-👀 I do iOS Development.
+🚀 I do iOS Development.
 
-🌱 Exploring SwiftUI and Combine on a daily basis.
+⚡️ Exploring SwiftUI and Combine on a daily basis.
 
 📫 Reach me on [LinkedIn](https://link-url-here.org)
 
