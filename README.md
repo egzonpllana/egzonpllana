@@ -12,7 +12,4 @@
 
 - [Interactive Image View](https://github.com/egzonpllana/InteractiveImageView) - Interactive Image View, is a library that provides an easier way to interact with image view, like scroll, zoom and crop.
 
-- [MyWayPizza](https://github.com/egzonpllana/MyWayPizza) - Building an iOS app for ordering Pizza with mocked APIs from the Apiary specification using Swift.
-
-
 That's all, a short introduction about me.
