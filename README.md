@@ -6,7 +6,7 @@
 
 📫 Reach me on [LinkedIn](https://link-url-here.org)
 
-📲 See my apps on the [App Store](https://apps.apple.com/developer/egzon-pllana/id1315313322).
+📲 See my apps on the [App Store](https://apps.apple.com/developer/egzon-pllana/id1315313322)
 
 
 👨‍💻 Repositories that I like the most
