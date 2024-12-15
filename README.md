@@ -1,4 +1,8 @@
-👋 Hi, I’m Egzon, and I'm from Kosovo, Europe.
+👋 Hi, I’m Egzon.
+
+🏠 Kosovo, Europe.
+
+🎛️ I love puzzles.
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/egzon-pllana)
 
