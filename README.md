@@ -14,7 +14,7 @@
 | [SwiftAndMathematicalChallenges](https://github.com/egzonpllana/SwiftAndMathematicalChallenges) | A collection of Swift and mathematical challenges to test your problem-solving skills. |
 
 ### 👨‍💻 About Me  
-I'm a **Senior iOS Developer** with a strong focus on **Clean Architecture** and **Protocol Oriented Programming** with **Swift** for scalable mobile applications.  
+I work as a **Senior iOS Developer** with a strong focus on **Clean Architecture** and **Protocol Oriented Programming** with **Swift** for scalable mobile applications.  
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/egzon-pllana)
 
