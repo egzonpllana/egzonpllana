@@ -7,8 +7,8 @@
 
 | Repository | Description |
 |------------|------------
-| [EReminderApp](https://github.com/egzonpllana/EReminderApp) | A beautifully designed reminder app following best practices. |
-| [NetworkLayerSwift6](https://github.com/egzonpllana/NetworkLayerSwift6) | A clean, reusable network layer for modern Swift applications. |
+| [EReminderApp](https://github.com/egzonpllana/EReminderApp) | The most clean and useful Reminder app. |
+| [EventHorizon](https://github.com/egzonpllana/EventHorizon) | Lightweight, thread-safe package designed to build a clean and organized network communication layer in Swift. |
 | [CodableFiles](https://github.com/egzonpllana/CodableFiles) | A lightweight and efficient way to manage files using `Codable`. |
 | [InteractiveImageView](https://github.com/egzonpllana/InteractiveImageView) | A powerful `UIImageView` subclass with interactive gestures. |
 | [SwiftAndMathematicalChallenges](https://github.com/egzonpllana/SwiftAndMathematicalChallenges) | A collection of Swift and mathematical challenges to test your problem-solving skills. |
