@@ -1,7 +1,3 @@
-### Welcome
-👋 Hi, I’m Egzon. 🇽🇰 
-
-### 👨‍💻 About Me  
 I work as a **Senior iOS Developer** with a strong focus on **Clean Architecture** and **Protocol Oriented Programming** with **Swift** for scalable mobile applications.  
 
 - [LinkedIn](https://www.linkedin.com/in/egzon-pllana)  
