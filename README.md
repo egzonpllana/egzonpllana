@@ -15,3 +15,5 @@ I work as a **Senior iOS Developer** with a strong focus on **Clean Architecture
 - [InteractiveImageView](https://github.com/egzonpllana/InteractiveImageView)
 
 - [SwiftAndMathematicalChallenges](https://github.com/egzonpllana/SwiftAndMathematicalChallenges)
+
+_Addicted to puzzles and challenges 🧩_
