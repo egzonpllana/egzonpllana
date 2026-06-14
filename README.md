@@ -20,7 +20,7 @@
 ### About Me
 
 - 🍏 **Senior iOS Developer** shipping production apps to the App Store.
-- 🏛️ **Clean Architecture**, SOLID & MVVM — modular, layered, testable.
+- 🏛️ **Clean Architecture**, SOLID, DRY & SRP — modular, layered, fully unit testable.
 - 🔌 **Protocol-Oriented** by default.
 - 📦 Build reusable **Swift packages & SDKs**.
 - ⚡ Comfortable across the full stack.
