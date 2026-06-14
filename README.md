@@ -1,3 +1,6 @@
+<img width="0" height="0" src="https://komarev.com/ghpvc/?username=egzonpllana&style=flat&label=%F0%9F%91%81&color=555555" alt="" />
+
+
 <h1 align="center">Hi, I'm Egzon Pllana 👋</h1>
 
 <p align="center">
@@ -12,20 +15,16 @@
   <a href="https://stackoverflow.com/users/7987502/egzon-p"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=egzonpllana&style=flat-square&color=blue" alt="Profile views"/>
-</p>
-
 ---
 
 ### About Me
 
-- 🍏 **Senior iOS Developer** with years of experience shipping production apps to the App Store.
-- 🏛️ I build around **Clean Architecture** — clear separation of Domain, Data, and Presentation layers.
-- 🔌 Firm believer in **Protocol-Oriented Programming** — abstraction over concrete dependencies, everywhere.
-- 📦 I design and maintain reusable, single-responsibility **Swift packages & SDKs** that power multiple apps.
-- ⚡ Comfortable across the stack — from native iOS to scripting, tooling, and web/backend when a project needs it.
-- 🧩 Drawn to puzzles, algorithms, and hard problems.
+- 🍏 **Senior iOS Developer** shipping production apps to the App Store.
+- 🏛️ **Clean Architecture**, SOLID & MVVM — modular, layered, testable.
+- 🔌 **Protocol-Oriented** by default.
+- 📦 Build reusable **Swift packages & SDKs**.
+- ⚡ Comfortable across the full stack.
+- 🧩 Love puzzles, algorithms, and hard problems.
 
 ```swift
 let egzon = Developer(
@@ -88,19 +87,20 @@ let egzon = Developer(
 | [**Conduit**](https://github.com/egzonpllana/conduit-ios) | A generic, protocol-driven UIKit navigation framework for SwiftUI apps. |
 | [**GeoClustering**](https://github.com/egzonpllana/geo-clustering-ios) | An iOS SDK for efficient geographic clustering of map annotations. |
 | [**LocalizationEngine**](https://github.com/egzonpllana/localization-engine-ios) | A lightweight, runtime localization SDK for iOS. |
-| [**MemoryProfiler**](https://github.com/egzonpllana/memory-profiler-ios) | Real-time memory monitoring, leak detection, and usage analytics for iOS. |
-| [**InteractiveImageView**](https://github.com/egzonpllana/interactive-image-view-ios) | A simple `UIView` to scroll, zoom, pinch and crop an image view. |
-| [**CodableFiles**](https://github.com/egzonpllana/codable-files-ios) | Save and load `Codable` objects from the Document Directory on iOS. |
-| [**PhaseShift**](https://github.com/egzonpllana/phaseshift-ios) | Elegant modal presentation with custom phase-shift transition animations. |
-| [**NetworkLayer Swift 6**](https://github.com/egzonpllana/network-layer-swift-6) | A generic, thread-safe networking layer built on modern Swift concurrency. |
+
+<p align="center">
+  <a href="https://github.com/egzonpllana?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/>
+  </a>
+</p>
 
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/egzonpllana"><img height="195" src="https://github-readme-stats.vercel.app/api?username=egzonpllana&show_icons=true&count_private=true&include_all_commits=true&hide=prs,contribs&line_height=38&theme=tokyonight&hide_border=true&rank_icon=github" alt="Egzon's GitHub stats"/></a>
-  <a href="https://github.com/egzonpllana"><img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=egzonpllana&theme=tokyonight&hide_border=true&dates=00000000" alt="GitHub streak"/></a>
+  <a href="https://github.com/egzonpllana"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=egzonpllana&show_icons=true&count_private=true&include_all_commits=true&hide=prs,contribs&line_height=34&theme=tokyonight&hide_border=true&rank_icon=github" alt="Egzon's GitHub stats"/></a>
+  <a href="https://github.com/egzonpllana"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=egzonpllana&theme=tokyonight&hide_border=true&dates=00000000" alt="GitHub streak"/></a>
 </p>
 
 <p align="center">
