@@ -1,7 +1,7 @@
 <img width="0" height="0" src="https://komarev.com/ghpvc/?username=egzonpllana&style=flat&label=%F0%9F%91%81&color=555555" alt="" />
 
 
-<h1 align="center">Hi, I'm Egzon Pllana 👋</h1>
+<h1 align="center">Egzon's Profile 👋</h1>
 
 <p align="center">
   <b>Senior iOS Developer</b> crafting scalable, maintainable mobile apps with<br/>
@@ -94,19 +94,3 @@ let egzon = Developer(
   </a>
 </p>
 
----
-
-### GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/egzonpllana"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=egzonpllana&show_icons=true&count_private=true&include_all_commits=true&hide=prs,contribs&line_height=34&theme=tokyonight&hide_border=true&rank_icon=github" alt="Egzon's GitHub stats"/></a>
-  <a href="https://github.com/egzonpllana"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=egzonpllana&theme=tokyonight&hide_border=true&dates=00000000" alt="GitHub streak"/></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/egzonpllana"><img src="https://github-readme-activity-graph.vercel.app/graph?username=egzonpllana&theme=tokyo-night&hide_border=true&radius=10&area=true&days=30&custom_title=Daily%20Contributions%20Over%20the%20Last%2030%20Days" alt="Daily contributions over the last 30 days — each point is one day, height is the number of contributions on that day"/></a>
-</p>
-
-<p align="center">
-  <sub>📅 &nbsp;Left → right = days &nbsp;&nbsp;|&nbsp;&nbsp; 📈 &nbsp;Higher line = more contributions that day</sub>
-</p>
