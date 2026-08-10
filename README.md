@@ -19,7 +19,7 @@
 
 ### About Me
 
-- 🍏 **Senior iOS Developer** shipping production apps to the App Store.
+- 🍏 **Senior iOS Developer** shipping apps to millions of users.
 - 🏛️ **Clean Architecture**, SOLID, DRY & SRP — modular, layered, fully unit testable.
 - 🔌 **Protocol-Oriented** by default.
 - 📦 Build reusable **Swift packages & SDKs**.
